@@ -44,5 +44,5 @@ Because we use Hough line transform, it will be required that we relax line acce
 ## Optional Challenge
 The optional challenge is not solved yet. Hope it will be done in the near future!
 
-[Video-1]: <https://github.com/MChehadeh/userTerminal/blob/master/Button-Upload-icon.png>
-[Video-2]: <https://github.com/MChehadeh/userTerminal/blob/master/Button-Upload-icon.png>
+[Video-1]: <https://github.com/MChehadeh/CarND-term1-P1/blob/master/solidWhiteRight-Result.mp4>
+[Video-2]: <https://github.com/MChehadeh/CarND-term1-P1/blob/master/solidYellowLeft-Result.mp4>
